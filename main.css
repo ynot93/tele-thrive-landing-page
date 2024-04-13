@@ -82,28 +82,9 @@ body {
   background-color: #3a3a3a;
 }
 
-.option {
-  width: calc(33.33% - 20px);
-  padding: 20px;
-  border-radius: 10px;
-  background-color: #f4d26ae2;
-  transition: background-color 0.3s ease;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  box-sizing: border-box;
-}
-
-.option:hover {
-  background-color: #f9e79fde;
-}
-
-.option h2 {
-  margin-bottom: 10px;
-  font-size: 24px;
-}
-
-.option p {
-  font-size: 16px;
+.img-fluid {
+  max-width: 100%;
+  max-height: 400px;
 }
 
 
