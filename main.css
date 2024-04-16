@@ -87,6 +87,13 @@ body {
   max-height: 400px;
 }
 
+/* Video Section */
+video {
+  width: 100%; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 10px; /* Add rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow effect */
+}
 
 /* Footer Section */
 .footer {
